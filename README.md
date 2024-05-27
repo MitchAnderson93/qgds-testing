@@ -17,7 +17,6 @@ This is a re-usable test suite for acceptance criteria.
       pip install python-dotenv
   4. Create a local virtual env (repo):
       python3 -m venv venv
-  4. Initialize python virtual env (repo):
       Mac: source env/bin/activate
       Windows: env\Scripts\activate
   5. Add your env vars to 'example.env' and rename to '.env'
